@@ -1,0 +1,29 @@
+POST http://localhost:5000/addUser
+Content-type: application/json
+{ 
+    name: "Jóni Belchior Feitosa",
+    cpf: 12345678999,
+    email: "victoria@gmail.com",
+    bDate: "2002-02-01",
+    password: "d230dab8-854e-4e3b-9c54-77bb2780567a"
+}
+
+###
+
+PUT http://localhost:5000/deleteAccount
+Content-type: application/json
+{
+    "id": 5,
+    "deletedBy": "3",
+    "deletedAt": "1970-01-01 00:00:01"
+}
+
+###
+
+PUT http://localhost:5000/deleteCard
+Content-type: application/json
+{
+    "id": 3,
+    "deletedBy": "3",
+    "deletedAt": "1970-01-01 00:00:01"
+}

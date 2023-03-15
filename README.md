@@ -23,3 +23,6 @@ npm i pg
 [Ilustrações](https://storyset.com/people/rafiki)  
 [Fontes](https://fonts.google.com/)  
 [Ícones](https://fonts.google.com/icons)
+
+
+Originalmente desenvolvido em: [Repositório Original](https://github.com/flaaaaaavis/alpha-bank)
